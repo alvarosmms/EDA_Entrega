@@ -1,9 +1,10 @@
 <h1 align="center">📞 EDA del Rendimiento del Call Center 📞</h1>
 
-### 📊 Descripción del Proyecto 📊
+### <div align="center">📊 Descripción del Proyecto 📊
 
 En la era de la transformación digital, el análisis de datos se ha convertido en una herramienta esencial para optimizar procesos y tomar decisiones informadas. Este proyecto se centra en realizar un Análisis Exploratorio de Datos (EDA) sobre el rendimiento de un Call Center, evaluando la eficiencia de los canales de comunicación y los centros de llamadas. A través de visualizaciones y métricas clave, buscamos identificar patrones, ineficiencias y áreas de mejora que permitan aumentar la satisfacción del cliente y optimizar los recursos.
 
+</div>
 -------------------------
 
 ### 🎯 **Objetivo del Proyecto** 🎯
@@ -32,6 +33,16 @@ A través de un **EDA** exhaustivo, hemos evaluado las siguientes dimensiones cl
 **Análisis por Motivo de Contacto:**
 - Impacto de razones específicas (Billing Question, Payments, Service Outage).
 - Identificación de áreas problemáticas.
+
+-------------------------
+
+### 📌 Contexto y Relevancia 📌
+
+Para entender la necesidad de este análisis, veamos de dónde surge. La transformación digital en la atención al cliente ha generado un debate constante:
+- ¿Son realmente efectivos los canales automáticos como Chatbot y Web?
+- ¿Los sistemas automatizados están sustituyendo a las personas solo para reducir costos?
+
+La percepción general es que la atención humana proporciona mejores resultados y mayor satisfacción al cliente. Las respuestas a estas preguntas no solo afectan la percepción de los clientes, sino que también tienen implicaciones significativas para la eficiencia y los costos del negocio. Con este análisis, exploraremos si estas percepciones se alinean con la realidad de los datos.
 
 -------------------------
 
@@ -96,3 +107,4 @@ A través de un **EDA** exhaustivo, hemos evaluado las siguientes dimensiones cl
 ### ✍️ Autor ✍️
 
 - Alvaro Sanchez Martin.
+
