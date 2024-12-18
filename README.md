@@ -2,7 +2,8 @@
 
 ### <div align="center">📊 Descripción del Proyecto 📊
 
-HUMANOS VS. MÁQUINAS 🤖👨‍💼👩‍💼
+### <div align="center"> 👨‍💼👩‍💼🤖 HUMANOS VS. MÁQUINAS 🤖👨‍💼👩‍💼
+
 En la era de la transformación digital, el análisis de datos se ha convertido en una herramienta esencial para optimizar procesos y tomar decisiones informadas. Este proyecto se centra en realizar un Análisis Exploratorio de Datos (EDA) sobre el rendimiento de un Call Center, evaluando la eficiencia de los canales de comunicación y los centros de llamadas. A través de visualizaciones y métricas clave, buscamos identificar patrones, ineficiencias y áreas de mejora que permitan aumentar la satisfacción del cliente y optimizar los recursos.
 
 </div>
