@@ -1,6 +1,6 @@
-<h1 <div align="center"> 👨‍💼👩‍💼🤖 HUMANOS VS. MÁQUINAS 🤖👨‍💼👩‍💼 </h1>
-
 <h1 align="center">📞 EDA - Rendimiento Call Center 📞</h1>
+
+## <div align="center"> 👨‍💼👩‍💼🤖 HUMANOS VS. MÁQUINAS 🤖👨‍💼👩‍💼
 
 ### <div align="center">📊 Descripción del Proyecto 📊
 
