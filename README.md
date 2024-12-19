@@ -67,19 +67,6 @@ La percepción general es que la atención humana proporciona mejores resultados
 
 -------------------------
 
-### 🌐 Visualizaciones Clave 🌐
-
-#### **Distribución de Satisfacción por Canal:**
-- Un gráfico de barras apiladas muestra que los canales automatizados (Chatbot y Web) tienen un rendimiento comparable al Call-Center humano en consultas simples.
-
-#### **Duración Promedio y Volumen por Centro:**
-- Centros con mayor volumen tienden a tener duraciones más largas y una mayor proporción de comentarios negativos.
-
-#### **Impacto del Motivo de Contacto:**
-- Consultas relacionadas con "Billing Question" generan los mayores tiempos de llamada y sentimientos negativos.
-
--------------------------
-
 ### 📈 Conclusiones y Propuestas de Mejora 📈
 
 1. **Optimizar Canales Automatizados:**
